@@ -1,0 +1,19 @@
+				
+.barra {
+	background-color: gray;
+	opacity: 0.6;
+}
+.barra a {
+	color: #000;
+}
+#inicio {
+	height: 100vh;
+	margin-top: 60px;
+}
+#conocimientos {
+	padding-top: 60px;
+}
+footer {
+	height: 50px;
+	background-color: grey;
+}
